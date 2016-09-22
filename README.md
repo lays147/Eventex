@@ -4,6 +4,8 @@ Sistema de Eventos encomendado pela Morena.
 
 [![Build Status](https://travis-ci.org/lays147/Eventex.svg?branch=master)](https://travis-ci.org/lays147/Eventex)
 
+[![Code Health](https://landscape.io/github/lays147/Eventex/master/landscape.svg?style=flat)](https://landscape.io/github/lays147/Eventex/master)
+
 ## Como desenvolver?
 1.  Clone o Repositório
 2. Crie um VirtualEnv com Python 3.5
